@@ -1,4 +1,4 @@
-using ArchitecturalPrints.Data;
+using ArchitecturalPrints.DataAccess.Data;
 using Microsoft.EntityFrameworkCore;
 
 WebApplicationBuilder builder = WebApplication.CreateBuilder(args);

@@ -2,7 +2,7 @@
 
 #nullable disable
 
-namespace ArchitecturalPrints.Migrations
+namespace ArchitecturalPrints.DataAccess.Migrations
 {
     /// <inheritdoc />
     public partial class AddCategoryTableToDB : Migration

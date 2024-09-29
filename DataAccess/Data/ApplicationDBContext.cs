@@ -1,7 +1,7 @@
 ﻿using ArchitecturalPrints.Models;
 using Microsoft.EntityFrameworkCore;
 
-namespace ArchitecturalPrints.Data
+namespace ArchitecturalPrints.DataAccess.Data
 {
 	public class ApplicationDBContext : DbContext
 	{
